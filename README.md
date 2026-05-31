@@ -1,6 +1,6 @@
 # Flatten a List (Recursively)
 
-## Instructions
+## Requirements
 Write a recursive function that takes a multi-dimensional list, and returns a one-dimensional list.  For the love of God, write some pseudocode before you code - and don't forget to write some tests!
 
 ### Ex 1
